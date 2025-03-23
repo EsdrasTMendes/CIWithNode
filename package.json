@@ -1,0 +1,30 @@
+{
+  "name": "ciwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "echo 'Build Concluído!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsdrasTMendes/CIWithNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EsdrasTMendes/CIWithNode/issues"
+  },
+  "homepage": "https://github.com/EsdrasTMendes/CIWithNode#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.23.0",
+    "jest": "^29.7.0"
+  }
+}
